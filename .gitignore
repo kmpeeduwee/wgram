@@ -1,0 +1,8 @@
+/dist/
+/target/
+/Cargo.lock
+/backend/target/
+.env
+*.session
+.idea
+.vscode
